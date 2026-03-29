@@ -1,0 +1,1 @@
+# azure-vmss-autoscale-demo
