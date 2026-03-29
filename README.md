@@ -83,7 +83,8 @@
 
 **Architecture Design**  
  
-<img width="880" height="1381" alt="image" src="https://github.com/user-attachments/assets/5432db23-fda1-41be-97d5-33c75ed412e8" />
+<img width="405" height="745" alt="image" src="https://github.com/user-attachments/assets/e05243b7-dad2-4d55-91be-ec49722d6c78" />
+
 
 
 Install dependencies on local VM: `sudo yum install -y python3-pip; pip3 install flask`.  
